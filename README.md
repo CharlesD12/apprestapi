@@ -10,6 +10,8 @@
    ![image](https://github.com/CharlesD12/apprestapi/assets/78160523/c58d9dc6-3439-4226-b0f9-29edd1684a7d)
 
  - Setelah itu, pada bagian MySQL, terdapat 4 pilihan yaitu Stop, Admin, Config, Logs. Pilih Admin, maka kemudian akan diarahkan ke PHP My Admin.
+   ![image](https://github.com/CharlesD12/apprestapi/assets/78160523/9ff131ef-9fe7-48fb-ad39-f0bdeb1963cf)
+
    ![image](https://github.com/CharlesD12/apprestapi/assets/78160523/a80fde76-bb15-4f8e-8b3c-2f0a9cb5122a)
 
 - Pada pilihan menu pada bagian atas PHP My Admin (yang mencakup Databases, SQL, Status, dll). Pilih User accounts.
