@@ -14,7 +14,8 @@
    ![image](https://github.com/CharlesD12/apprestapi/assets/78160523/8228aca3-8142-450b-9b21-0b917380b61a)
 
 
-   ![image](https://github.com/CharlesD12/apprestapi/assets/78160523/a80fde76-bb15-4f8e-8b3c-2f0a9cb5122a)
+   ![image](https://github.com/CharlesD12/apprestapi/assets/78160523/df83945b-4049-4578-a8cb-fc604f8ce02f)
+
 
 - Pada pilihan menu pada bagian atas PHP My Admin (yang mencakup Databases, SQL, Status, dll). Pilih User accounts.
   ![image](https://github.com/CharlesD12/apprestapi/assets/78160523/cc5c4fff-fafe-4433-828a-94b04dab30e7)
