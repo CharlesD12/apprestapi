@@ -1,5 +1,5 @@
 # apprestapi
- Aplikasi rest api sederhana dengan menggunakan node js
+ Aplikasi rest api sederhana ini dibuat dengan menggunakan node js dan phpmyadmin.
 
  Agar API ini dapat berjalan dengan baik ada beberapa persyaratan yang diperlukan :
  1. Membuat password untuk database Anda (jika tidak menggunakan PHP My Admin/XAMPP, bisa menyesuaikan dengan database yang digunakan).
