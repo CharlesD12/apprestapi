@@ -24,4 +24,5 @@
 
 - Setelah itu, pilih root yang paling bawah pada tabel "User accounts overview". Setelah terbuka, di atas tulisan "Edit privilages: User account root@localhost" terdapat beberapa pilihan menu yaitu Global, Database,
 Change Password dan Login Informattion. Pilih Change password kemudian masukkan password yang diinginkan baik pada enter maupun Re-type harus sama. Jika sudah klik Go.
-![image](https://github.com/CharlesD12/apprestapi/assets/78160523/a6594323-ed34-4577-823d-053cc967f85d)
+![image](https://github.com/CharlesD12/apprestapi/assets/78160523/461aa2b0-f09f-43b7-9000-aa9d4c9bfdda)
+
