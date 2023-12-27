@@ -11,8 +11,7 @@
 
  - Setelah itu, pada bagian MySQL, terdapat 4 pilihan yaitu Stop, Admin, Config, Logs. Pilih Admin, maka kemudian akan diarahkan ke PHP My Admin.
    <br>
-   ![image](https://github.com/CharlesD12/apprestapi/assets/78160523/06b004c0-17f9-4a3b-bec6-eba68aabc80b)
-
+   ![image](https://github.com/CharlesD12/apprestapi/assets/78160523/0ec78c62-5711-4b31-a5ac-3fef89aa7827)
 
    ![image](https://github.com/CharlesD12/apprestapi/assets/78160523/a80fde76-bb15-4f8e-8b3c-2f0a9cb5122a)
 
