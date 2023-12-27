@@ -13,14 +13,10 @@
    <br>
    ![image](https://github.com/CharlesD12/apprestapi/assets/78160523/8228aca3-8142-450b-9b21-0b917380b61a)
 
-
    ![image](https://github.com/CharlesD12/apprestapi/assets/78160523/a37ca167-f215-45ad-bfcb-c01cb5f47b19)
 
 - Pada pilihan menu pada bagian atas PHP My Admin (yang mencakup Databases, SQL, Status, dll). Pilih User accounts.
   ![image](https://github.com/CharlesD12/apprestapi/assets/78160523/cc5c4fff-fafe-4433-828a-94b04dab30e7)
-
-    Jika menggunakan XAMPP, pergi ke PHP My Admin untuk membuat password SQL anda. Jika PHP My Admin telah terbuka,
-    pergi ke user accounts.
 
 - Setelah itu, pilih root yang paling bawah pada tabel "User accounts overview". Setelah terbuka, di atas tulisan "Edit privilages: User account root@localhost" terdapat beberapa pilihan menu yaitu Global, Database,
 Change Password dan Login Informattion. Pilih Change password kemudian masukkan password yang diinginkan baik pada enter maupun Re-type harus sama. Jika sudah klik Go.
